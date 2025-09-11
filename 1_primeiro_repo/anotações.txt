@@ -1,1 +1,9 @@
-Testando repo 
+O controle de versão é uma ferramenta "exemplo disso é o git" que permite a equipe trabalhar junta no desenvolvimento de um software. 
+Ela possibilita que cada membro crie sua própria cópia do código (branch) para trabalhar em funcionalidades de forma independente, mantendo o histórico de alterações e facilitando a integração do trabalho no projeto principal.
+Ele permite trabalho em equipe, reversão de código, historico de alterações, colaboração remota e Integração de código
+
+Um repositório é o local onde o projeto é armazenado e versionado. 
+Ele pode ser local, na sua própria máquina, ou remoto, hospedado em serviços como o GitHub, permitindo colaboração entre a equipe.
+
+O GitHub é uma plataforma que atua como servidor de hospedagem para repositórios Git, permitindo salvar e compartilhar projetos online. 
+Além disso, oferece recursos para colaboração, gerenciamento de tarefas, revisão de código e automação de processos de desenvolvimento.
